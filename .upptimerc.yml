@@ -1,5 +1,5 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: chuan0418-com # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
@@ -7,12 +7,10 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
+  - name: 網站
+    url: https://www.chuan0418.com
+  - name: 主機
+    url: ip.chuan0418.net
     port: 80
     check: "tcp-ping"
     ipv6: true
@@ -22,15 +20,17 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: demo.upptime.js.org
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://www.chuan0418.com/favicon.png
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**銓chuan**"
+  introMessage: 
   navbar:
-    - title: Status
+    - title: 狀態頁面
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: 關於我
+      href: https://chuan0418.me
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
