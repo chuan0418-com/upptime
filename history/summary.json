@@ -40,18 +40,20 @@
     "url": "https://www.chuan0418.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.chuan0418.com.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 997,
-    "timeDay": 997,
-    "timeWeek": 997,
-    "timeMonth": 997,
-    "timeYear": 997,
-    "dailyMinutesDown": {}
+    "time": 926,
+    "timeDay": 926,
+    "timeWeek": 926,
+    "timeMonth": 926,
+    "timeYear": 926,
+    "dailyMinutesDown": {
+      "2025-02-05": 0
+    }
   },
   {
     "name": "主機 Server",
@@ -70,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-05": 78,
+      "2025-02-05": 346,
       "2025-02-04": 1043
     }
   }
