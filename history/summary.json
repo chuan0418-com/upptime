@@ -40,19 +40,19 @@
     "url": "https://www.chuan0418.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.chuan0418.com.ico",
     "slug": "website",
-    "status": "down",
-    "uptime": "94.57%",
-    "uptimeDay": "71.49%",
-    "uptimeWeek": "94.57%",
-    "uptimeMonth": "94.57%",
-    "uptimeYear": "94.57%",
-    "time": 945,
-    "timeDay": 969,
-    "timeWeek": 945,
-    "timeMonth": 945,
-    "timeYear": 945,
+    "status": "up",
+    "uptime": "94.35%",
+    "uptimeDay": "70.23%",
+    "uptimeWeek": "94.35%",
+    "uptimeMonth": "94.35%",
+    "uptimeYear": "94.35%",
+    "time": 950,
+    "timeDay": 976,
+    "timeWeek": 950,
+    "timeMonth": 950,
+    "timeYear": 950,
     "dailyMinutesDown": {
-      "2025-02-09": 410
+      "2025-02-09": 428
     }
   },
   {
@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-09": 761,
+      "2025-02-09": 779,
       "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
